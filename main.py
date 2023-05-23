@@ -16,7 +16,6 @@ if user_choice == 1:
         print("Thanks for your shoping")
 
 
-
 if user_choice == 2:
     laptops()
     choice = input("do want get back y/n? ")
